@@ -1,0 +1,89 @@
+.purple{
+    color: #7f02e0;
+}
+.main0{
+    margin-top: 150px;
+}
+.Heading {
+    text-align: center;
+    color: #f2f2f2;
+    font-size: 120px;
+}
+.Subheading {
+    text-align: center;
+    color: #f2f2f2;
+    font-size: 42px;
+    margin-top: 50px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.button button {
+    background-color: #7f02e0;
+    color: #ffffff;
+    border: none;
+    border-radius: 16px;
+    padding: 20px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 6px 4px;
+    cursor: pointer;
+}
+.topnav {
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 24px;
+  }
+  
+  .topnav a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 0 20px;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  .topnav button {
+    color: #ffffff;
+    background-color: black;
+    border: 2px solid #7f02e0;
+    border-radius: 16px;
+    padding: 3px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+  
+  .topnav a:hover, .topnav button:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    color: white;
+  }
+  body{
+    background-color: black;
+  }
+.main1 {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: 36px;
+    margin-right: 275px;
+    margin-left: 205px;
+    font-size: 36px;
+}
+
+.B2BSaaS {
+}
+
+.sixtyFolks {
+}
